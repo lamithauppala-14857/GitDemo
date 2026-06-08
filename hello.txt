@@ -1,1 +1,2 @@
 Hi Git, how is your day?
+Hi Git, hope you are having a great day!
